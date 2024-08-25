@@ -1,4 +1,4 @@
-## <span style="font-size: 24px;">$\zeta$</span> think first find axiom do action
+## <span style="font-size: 24px;">$\zeta$</span> think first <span style="font-size: 24px;">$\zeta$</span> find axiom <span style="font-size: 24px;">$\zeta$</span> do action <span style="font-size: 24px;">$\zeta$</span>
 
 <span style="font-size: 30px;">🧠 &rarr; 📏 &rarr; ⚡</span>
 
