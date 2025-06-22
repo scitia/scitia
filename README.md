@@ -1,33 +1,28 @@
-## <span style="font-size: 24px;">$\zeta$</span> think first <span style="font-size: 24px;">$\zeta$</span> find axiom <span style="font-size: 24px;">$\zeta$</span> do action <span style="font-size: 24px;">$\zeta$</span>
-
-<span style="font-size: 30px;">🧠 &rarr; 📏 &rarr; ⚡</span>
-
-<table cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td>
-<img src="ulam_spiral.png" alt="Ulam spiral" height=240>
-</td>
-<td>
-<table cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td>
-<img src="java_logo.png" width=100 height=100>
-</td>
-<td>
-<img src="spring_boot_logo.png" width=85 height=85>
-</td>
-</tr>
-<tr>
-<td>
-<img src="orac.png" width=100>
-</td>
-<td>
-<img src="angular_logo.png" width=100 height=100>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-
+<span align="center">
+<pre><b>
+<img src="scitia_bow.png" width="100px">
+____ ____ _ ___ _ ____ 
+[__  |    |  |  | |__| 
+___] |___ |  |  | |  | 
+</b>
+</pre>
+</span>
+<p align="center">
+I am an engineer that develop IT healhcare sector in daily work and I am interested in engineering applications of technology in medicine, with particular attention paid to artificial intelligence. Math is really my thing. I derive a lot of pleasure from learning and exploring the application of mathematics and algorithms in production solutions, ensuring optimization, speed and an innovative approach to the solutions created.
+</p>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,postgres,mysql,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,reactivex" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,idea,github,gitlab,jenkins" />
+  </a>
+</p>
