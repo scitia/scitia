@@ -26,4 +26,3 @@ I am an engineer that develop IT healhcare sector in daily work and I am interes
     <img src="https://skillicons.dev/icons?i=docker,git,idea,github,gitlab,jenkins" />
   </a>
 </p>
-
