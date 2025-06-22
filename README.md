@@ -14,15 +14,18 @@ I am an engineer that develop IT healhcare sector in daily work and I am interes
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,maven,spring,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,postgres,mysql,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,reactivex" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,reactivex" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,idea,github,gitlab,jenkins" />
     <img src="https://skillicons.dev/icons?i=docker,git,idea,github,gitlab,jenkins" />
   </a>
 </p>
