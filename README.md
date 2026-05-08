@@ -15,7 +15,7 @@ Software Engineer and Graduate Research and Teaching Assistant. Currently I'm wo
 </div>
 
 <div style="margin-top: 50px;">
-  <h3 style="color: #00BFFF;"> Contributions</h3>
+  <h3 style="color: #00BFFF;">Contributions</h3>
   <a href="https://github.com/maximtrp/scikit-posthocs/pull/96">
     <img src="https://img.shields.io/badge/scikit--posthocs-%2396-blue?style=for-the-badge&logo=github" alt="PR #96 to scikit-posthocs">
   </a>
