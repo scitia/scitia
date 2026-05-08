@@ -1,10 +1,8 @@
-<!-- <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=400&color=00BFFF&background=00000000&center=true&vCenter=true&width=435&lines=come+to+where+the+future+is" alt="Typing SVG" /></a>
-</div> --> 
-
 <p align="center">
   <img src="mayad.svg" alt="Mayan Symbol" width="300">
 </p>
+
+### About me
 
 Software Engineer and Graduate Research and Teaching Assistant. Currently I'm working in the Health IT sector developing and maintaining HIS systems.
 
